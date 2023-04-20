@@ -44,9 +44,7 @@ footer{
 }
 
 .container-footer .box .icons-contact{
-    display: flex;
-    flex-flow: column wrap;
-    align-items: flex-start;
+    display: grid;
     gap:2rem;
 }
 
@@ -93,5 +91,9 @@ footer{
 
     .container-footer .box h3{
         height: 25px;
+    }
+
+    .container-footer .box .icons-contact{
+        grid-template-columns: 1fr 1fr;
     }
 }
