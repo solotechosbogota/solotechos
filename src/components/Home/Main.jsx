@@ -105,7 +105,7 @@ const Main = () => {
 
           <div className={`content-2 ${isActive2 && 'active'}`}>
             <h1 className={`${isOpacity2 && 'show-h1'}`}>
-              Más de <span>15 años de experiencia</span>
+              Más de <span>25 años de experiencia</span>
             </h1>
             <p className={`desktop grilla ${isOpacity2 && 'show-p-2'}`}>
               Contamos con más de 15 años de experiencia en la industria de
