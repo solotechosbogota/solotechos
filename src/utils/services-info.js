@@ -25,7 +25,7 @@ const servicesInfo = [
     list: [
       'Barro',
       'Termoacústica',
-      'Fibra cemento',
+      'Fibrocemento',
       'Shingle',
       'Adecuación y reforzamiento de techo',
     ],

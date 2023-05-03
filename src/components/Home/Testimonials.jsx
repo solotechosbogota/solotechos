@@ -1,6 +1,7 @@
 import React from 'react';
 import './styles/testimonials.css';
 import testimonialsInfo from '../../utils/testimonials-info';
+import { conjuntos } from '../../utils/testimonials-info';
 
 const Testimonials = () => {
   return (
@@ -20,6 +21,17 @@ const Testimonials = () => {
                 </div>
               </footer>
             </div>
+          ))}
+        </div>
+      </div>
+      <div className="container-conjuntos">
+        <h2 className="subtitulo">
+          Alugnos proyectos realizados a conjuntos residenciales en Bogotá
+        </h2>
+        <hr />
+        <div className="box-conjuntos">
+          {conjuntos.map((conjunto) => (
+            <li key={conjunto.text}>{conjunto.text}</li>
           ))}
         </div>
       </div>
