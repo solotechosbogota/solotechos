@@ -26,7 +26,7 @@ const Testimonials = () => {
       </div>
       <div className="container-conjuntos">
         <h2 className="subtitulo">
-          Alugnos proyectos realizados a conjuntos residenciales en Bogotá
+          Algunos proyectos realizados a conjuntos residenciales en Bogotá
         </h2>
         <hr />
         <div className="box-conjuntos">
