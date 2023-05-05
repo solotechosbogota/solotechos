@@ -1,0 +1,8 @@
+.phone-icon{
+    width: 200px;
+
+    position: fixed;
+    bottom: 65px;
+    right: 10px;
+    z-index: var(--zposition-third);
+}

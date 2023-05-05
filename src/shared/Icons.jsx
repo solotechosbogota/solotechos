@@ -4,10 +4,10 @@ import './styles/icons.css';
 const Icons = () => {
   return (
     <div className="icons">
-      <a href="tel: 601 6278562">
+      {/* <a href="tel: 601 6278562">
         <i className="bx bxs-phone"></i>
       </a>
-      <hr />
+      <hr /> */}
       <a href="https://www.instagram.com/solotechosbogota/" target="_blank">
         <i className="bx bxl-instagram-alt"></i>
       </a>

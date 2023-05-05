@@ -13,6 +13,7 @@ import GoogleMaps from '../components/Home/GoogleMaps';
 import Copyright from '../shared/Copyright';
 import Icons from '../shared/Icons';
 import TopArrow from '../shared/TopArrow';
+import PhoneIcon from '../shared/PhoneIcon';
 
 const HomePage = () => {
   return (
@@ -31,6 +32,7 @@ const HomePage = () => {
       <Copyright />
       <TopArrow />
       <Icons />
+      <PhoneIcon />
     </div>
   );
 };
