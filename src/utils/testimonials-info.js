@@ -1,8 +1,22 @@
 import ibm from '../assets/testimonial/ibm.png';
 import globalExchange from '../assets/testimonial/global-exchange.png';
 import teleamiga from '../assets/testimonial/teleamiga.png';
+import tiber from '../assets/testimonial/tiber.png';
+import adminsa from '../assets/testimonial/adminsa.jpg';
 
 const testimonialsInfo = [
+  {
+    image: tiber,
+    quote: 'Texto de empresa',
+    name: 'Industrias Tiber',
+    cargo: 'Empresa',
+  },
+  {
+    image: adminsa,
+    quote: 'Texto de empresa.',
+    name: 'Adminsa',
+    cargo: 'Empresa',
+  },
   {
     image: ibm,
     quote:

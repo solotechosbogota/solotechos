@@ -6,7 +6,7 @@ const Stats = () => {
     <section className="stats">
       <div className="container-stats grilla">
         <h2 className="subtitulo">
-          En más de <span>25 años</span> de experiencia hemos realizado
+          En más de <span>30 años</span> de experiencia hemos realizado
         </h2>
         {statsInfo.map((stat) => (
           <div key={stat.message} className="box">

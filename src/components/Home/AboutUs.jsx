@@ -11,7 +11,7 @@ const AboutUs = () => {
         </div>
         <div className="text">
           <p>
-            Somos una empresa con 25 años de experiencia en el área de
+            Somos una empresa con más 30 años de experiencia en el área de
             instalación, remodelación y reparación de techos y marquesinas,
             líderes en el mercado local. Innovamos, ofreciendo servicios y
             materiales de calidad a la altura de sus expectativas, garantizando

@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="box">
           <h3>Sobre nosotros</h3>
           <p>
-            Somos una empresa con 25 años de experiencia en el área de
+            Somos una empresa con mas de 30 años de experiencia en el área de
             instalación, remodelación y reparación de techos y marquesinas,
             líderes en el mercado local.
           </p>
@@ -60,6 +60,12 @@ const Footer = () => {
                     (+601) 6278562
                   </a>{' '}
                 </p>
+                <p>
+                  {' '}
+                  <a className="phone" href="tel: 601 4489286">
+                    (+601) 4489286
+                  </a>{' '}
+                </p>
               </footer>
             </div>
 
@@ -70,6 +76,12 @@ const Footer = () => {
                   {' '}
                   <a className="phone" href="tel: 313 8127333">
                     313 8127333
+                  </a>{' '}
+                </p>
+                <p>
+                  {' '}
+                  <a className="phone" href="tel: 320 3496061">
+                    320 3496061
                   </a>{' '}
                 </p>
               </footer>

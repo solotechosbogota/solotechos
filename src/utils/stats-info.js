@@ -1,15 +1,15 @@
 const statsInfo = [
   {
-    stat: 2700,
-    message: 'Más de 2700 impermeabilizaciones',
+    stat: 3100,
+    message: 'Más de 3100 impermeabilizaciones',
   },
   {
-    stat: 3800,
-    message: 'Más de 3800 reparaciones a techos',
+    stat: 4150,
+    message: 'Más de 4150 reparaciones a techos',
   },
   {
-    stat: 500,
-    message: 'Más de 500 instalaciones de marquesinas',
+    stat: 800,
+    message: 'Más de 800 instalaciones de marquesinas',
   },
 ];
 
