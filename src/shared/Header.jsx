@@ -1,6 +1,6 @@
 import './styles/header.css';
 import logo from '../assets/logo.png';
-import logo2 from '../assets/logo-2.jpg';
+import logo2 from '../assets/logo-2.png';
 import { useState } from 'react';
 import { Link } from 'react-scroll';
 
@@ -24,7 +24,7 @@ const Header = () => {
       <div className="header-container">
         <div className="logo">
           <a href="#">
-            <img src={logo2} alt="solo techos bogota" />
+            <img src={logo2} alt="solo techos bogota"/>
           </a>
         </div>
         <i onClick={handleNav} className="bx bx-menu-alt-right"></i>
