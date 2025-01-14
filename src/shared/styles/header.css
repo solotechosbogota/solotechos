@@ -20,7 +20,7 @@ header{
     width: 90%; 
     max-width: 1200px;
     margin: auto; 
-    height: 80px;
+    height: 90px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -33,7 +33,7 @@ header{
 }
 
 .header-container .logo img{
-    width: 70px;
+    width: 100px;
 }
 
 .header-container .logo p{

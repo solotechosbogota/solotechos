@@ -4,7 +4,7 @@ import imgPhoneIcon from '../assets/icon-phone-2.png';
 
 const PhoneIcon = () => {
   return (
-    <a className="phone-icon" href="tel: 3203496061">
+    <a className="phone-icon" href="https://w.app/g3wAzc" target='_blank'>
       <img src={imgPhoneIcon} alt="" />
     </a>
   );
