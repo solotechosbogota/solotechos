@@ -12,7 +12,7 @@ const Icons = () => {
         <i className="bx bxl-instagram-alt"></i>
       </a>
       <hr />
-      <a href="https://w.app/g3wAzc" target="_blank">
+      <a href="https://wa.link/ieep7d" target="_blank">
         <i className="bx bxl-whatsapp"></i>
       </a>
     </div>
