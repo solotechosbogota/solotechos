@@ -8,7 +8,7 @@ const testimonialsInfo = [
   {
     image: tiber,
     quote:
-      'Se efectuó el cambio de las tejas en las bodegas, logrando una mejora significativa en la seguridad y en el estado de las cubiertas. El trabajo se realizó de manera puntual y organizada, dejando el área en perfectas condiciones al finalizar..',
+      'Se efectuó el cambio de las tejas en las bodegas, logrando una mejora significativa en la seguridad y en el estado de las cubiertas. El trabajo se realizó de manera puntual y organizada, dejando el área en perfectas condiciones al finalizar.',
     name: 'Industrias Tiber',
     cargo: 'Empresa',
   },
@@ -22,7 +22,7 @@ const testimonialsInfo = [
   {
     image: ibm,
     quote:
-      'Se ralizaron labores de mantenimiento y limpieza en el tejado y la bajante de la canal. Vulcanización de vigacanal y posteriormente se aplicó pintura bituminosa al manto ya instalado dándole un mejor sellado y terminado.',
+      'Se realizaron labores de mantenimiento y limpieza en el tejado y la bajante de la canal. Vulcanización de vigacanal y posteriormente se aplicó pintura bituminosa al manto ya instalado dándole un mejor sellado y terminado.',
     name: 'IBM',
     cargo: 'Empresa',
   },
