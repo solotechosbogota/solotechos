@@ -7,13 +7,15 @@ import adminsa from '../assets/testimonial/adminsa.jpg';
 const testimonialsInfo = [
   {
     image: tiber,
-    quote: 'Texto de empresa',
+    quote:
+      'Se efectuó el cambio de las tejas en las bodegas, logrando una mejora significativa en la seguridad y en el estado de las cubiertas. El trabajo se realizó de manera puntual y organizada, dejando el área en perfectas condiciones al finalizar..',
     name: 'Industrias Tiber',
     cargo: 'Empresa',
   },
   {
     image: adminsa,
-    quote: 'Texto de empresa.',
+    quote:
+      'Se realizó la impermeabilización de las cubiertas de nuestras torres, obteniendo excelentes resultados. El trabajo se llevó a cabo de forma ordenada, cumpliendo con los tiempos establecidos y mejorando notablemente la protección contra filtraciones.',
     name: 'Adminsa',
     cargo: 'Empresa',
   },
